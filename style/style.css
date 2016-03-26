@@ -1,0 +1,265 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+
+   		
+       /* padding: 0;
+        margin: 0;
+		background-image:url(../Img/fondo.jpg);
+		*/
+		background-image:url(../Img/fondo.jpg);
+		background-attachment:fixed;
+		height: 100%;
+        width: 100%;
+	
+}
+
+   
+
+
+
+#Marcouniverso{	
+	margin:0 auto 0 auto;
+	width:1100px;
+	height:auto;
+	
+
+
+}
+
+#MarcoGlobal{	
+	margin:0 auto 0 auto;
+	width:905px;
+	height:auto;
+	padding-left:5px;
+	background:#CCC;
+
+}
+
+#Logo{
+	width:900px;
+	height:350px;
+	background-color:#900;
+}
+
+#Menu{
+	width:900px;
+	height:37px;
+	background-image:url(../Img/backmenu.jpg);
+}
+
+
+	
+#Separacion1{
+	width:900px;
+	height:5px;
+	
+
+}
+
+#Bannerppl{
+	width:900px;
+	height:100px;
+	
+
+}
+
+#Seccion1{
+	width:900px;
+	height:350px;
+	
+}
+
+		#Rotador{
+			width:550px;
+			height:350px;
+			background:#CCC;
+			float:left;
+		
+		}
+		
+		#Noticias{
+			width:350px;
+			height:350px;
+			float:left;
+			font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+			font-size:13px;
+			text-align:justify;
+		}
+		
+		    
+					#Separacion2{
+						margin-top:2px;
+						margin-left:7px;
+						width:342px;
+						height:1px;
+						background:#CCC;
+						float:left;
+							
+					}
+					#Noticiascontenido{
+						margin-left: 4px;
+						width:346px;
+						height:75px;
+						float:left;
+						padding-left:1px;
+						background:#333;
+						color:#FFF;
+					}
+					
+
+		
+#social{
+	width:900px;
+	height:50px;
+	background:#FFF;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:18px;
+}
+
+		#Separacion3{
+			width:900px;
+			height:5px;
+			background:#FFF;			
+		}	
+
+#contenido{
+	width:900px;
+	height:300px;	
+}
+
+
+
+		#articulos{
+			width:300px;
+			height:300px;
+			background:#FFF;
+			float:left;
+			text-align:justify;
+			font-family:Arial, Helvetica, sans-serif;
+			font-size:14px;
+		}
+		#Noticiascontenido2{
+			margin-left:1px;
+			width:296px;
+			height:73px;
+			background:#333;
+			float:left;
+			color:#FFF;
+			font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+			font-size:13px;
+		}
+		#Separacion4{
+			width:300px;
+			height:5px;
+			background:#000;
+			float:left;		
+		}	
+
+
+
+
+#contenidoauto{
+	width:900px;
+	height:auto;
+	background:#FFF;
+}
+		
+			#noticiasContendio{
+			width:800px;
+			height:auto;	
+			margin: 0 auto;
+			background:#FFF;
+			text-align:justify;
+
+	
+			}
+						
+						#noticiasArcordion{	
+							margin-top: 10px;			
+							width:575px;
+							height:auto;							
+							background:#FFF;
+							float:left;			
+						}
+						
+						
+										#noticiasTitulo{
+											width:575px;
+											height:auto;	
+											margin: 0 auto;
+											background:#FFF;
+											float:left;
+											text-align:center;
+											font-family:Arial, Helvetica, sans-serif;
+											font-size:16px;							
+										}
+										#contenidoContenido{
+											margin-top: 10px;
+											width:565px;
+											height:auto;
+											padding-left:5px;																						
+											background:#FFF;
+											float:left;
+											text-align:justify;
+											font-family:Arial, Helvetica, sans-serif;
+											font-size:12px;																				
+										}
+										
+										
+					
+						
+									#galeriaTitulo{	
+										margin-top: 10px;									
+										width:200px;
+										height:auto;								
+										background:#FFF;
+										text-align:center;
+										float:left;										
+									}
+									#galeriaMarco{
+										margin-top: 10px;
+										margin-left: 25px;
+										width:150px;
+										height:150px;								
+										background:#FC3;
+										float:left;											
+									}
+
+
+
+#contenidoGeneral{
+			margin: 0 auto;
+			width:800px;
+			height:auto;			
+			background:#FFF;
+}
+
+#direccion{
+	width:100%;
+	height:50px;
+	background:#000;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFF;	
+	}		
+
+a:link{
+	color:#FC0;
+	text-decoration:none;	
+}
+a:visited{
+	color:#FC0;
+	text-decoration:line-through;	
+}
+a:hover{
+	color:#FC0;
+	text-decoration:line-through;	
+}
+
+#intranet{
+		background-image:url(Img/intranet.jpg);	
+	}
+	
+#galeria{float:left;}
